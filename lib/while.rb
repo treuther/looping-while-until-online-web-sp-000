@@ -6,3 +6,4 @@ def using_while
     counter += 1
   #your code here
 end
+end
